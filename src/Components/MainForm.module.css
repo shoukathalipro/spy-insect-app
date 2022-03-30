@@ -1,0 +1,21 @@
+.formMain {
+  margin-left: 50%;
+  transform: translate(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5vw;
+  gap: 3vw;
+  background-color: antiquewhite;
+  padding: 1vw;
+}
+
+.formTop {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.formBtm {
+  font-size: 20px;
+  font-weight: 600;
+}
